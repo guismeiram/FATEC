@@ -1,0 +1,2 @@
+-Dados: entradas
+-Banco de dados: dados
