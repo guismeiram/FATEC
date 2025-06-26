@@ -1,0 +1,18 @@
+use teste;
+
+CREATE TABLE usuario(
+	id 	INTEGER AUTO_INCREMENT NOT NULL,
+    email varchar(50) NOT NULL,
+    senha varchar(50) NOT NULL,
+    PRIMARY KEY(ID)
+);
+
+CREATE TABLE Filme(
+	id 		INTEGER				AUTO_INCREMENT	NOT NULL,
+    nome		VARCHAR(50)			NOT NULL,
+    genero	VARCHAR(50)			NOT NULL,
+    duracao	 varchar(100)			NOT NULL,
+	PRIMARY KEY(id)
+);
+
+insert into Filme(nome, genero, duracao) values ('Senhor dos Aneis', 'Mitologia', '2');
