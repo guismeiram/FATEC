@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Aula_02.DTOs.ProdutoDto>
+
+@{
+    ViewData["Title"] = "GetProdutos";
+}
+
+<h1>Produtos</h1>
+
+<h2>Produtos Ativos</h2>
+
+<ul>
+    @foreach (var produto in Model)
+    {
+        <li>@produto.Nome</li>
+    }
+</ul>

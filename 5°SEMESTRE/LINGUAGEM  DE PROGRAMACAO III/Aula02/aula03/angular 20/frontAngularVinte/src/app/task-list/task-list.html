@@ -1,0 +1,18 @@
+<div xmlns="http://www.w3.org/1999/html">
+  <!-- Two-way data binding com ngModel -->
+  <p><label> Title: <input [(ngModel)]="newTask.title" placeholder="Nova tarefa"></label></p>
+
+  <!-- Two-way data binding para o checkbox -->
+  <p><label> Status: <input type="checkbox" (change)="onCheckboxChange($event)" placeholder="Status"></label></p>
+
+  <!-- Event binding para o click do botão -->
+  <button (click)="addTask()">Adicionar</button>
+
+  <!-- Lista de tarefas -->
+  <ul>
+    <!-- *ngFor para iterar sobre a lista de tarefas -->
+    @for (task of tasks; track  $index){
+      <p>{{ task.title }} - {{ task.completed ? '✓' : '✗' }} </p> <!-- Exibe ✓ ou ✗ baseado no status -->
+    }
+  </ul>
+</div>

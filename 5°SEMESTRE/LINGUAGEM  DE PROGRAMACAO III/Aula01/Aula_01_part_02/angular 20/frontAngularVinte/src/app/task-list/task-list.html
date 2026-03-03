@@ -1,0 +1,15 @@
+<div>
+  <!-- Two-way data binding com ngModel -->
+  <input [(ngModel)]="newTask.title" placeholder="Nova tarefa">
+
+  <!-- Event binding para o click do botão -->
+  <button (click)="addTask()">Adicionar</button>
+
+  <!-- Lista de tarefas -->
+  <ul>
+    <!-- *ngFor para iterar sobre a lista de tarefas -->
+    @for (task of tasks; track  $index){
+      {{ task.title }} - {{ task.completed ? '✓' : '✗' }}  <!-- Exibe ✓ ou ✗ baseado no status -->
+    }
+  </ul>
+</div>

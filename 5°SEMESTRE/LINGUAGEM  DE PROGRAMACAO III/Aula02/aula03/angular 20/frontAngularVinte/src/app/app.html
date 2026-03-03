@@ -1,0 +1,13 @@
+<app-task-form (add)="addTask($event)"></app-task-form>
+<ul>
+  @for (task of tasks; track task.id) {
+    <app-task-item
+      [task]="task"
+      (delete)="deleteTask($event)">
+    </app-task-item>
+  }
+</ul>
+<app-task-list></app-task-list>
+<!-- Recebe evento add -->
+
+<router-outlet />

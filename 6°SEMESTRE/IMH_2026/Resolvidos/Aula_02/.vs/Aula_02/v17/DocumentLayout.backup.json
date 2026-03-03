@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guism\\Desktop\\Aula_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\interface\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\interface\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\views\\produto\\getprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\views\\produto\\getprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|c:\\users\\guism\\desktop\\aula_02\\aula_02\\aula_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDEB5B52-038C-4421-A258-13510AAB9650}|Aula_02\\Aula_02.csproj|solutionrelative:aula_02\\aula_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "Aula_02\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:22:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Interface\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Interface\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Interface\\IUsuarioService.cs",
+              "RelativeToolTip": "Aula_02\\Interface\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:08:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Interface\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Interface\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Interface\\IProdutoService.cs",
+              "RelativeToolTip": "Aula_02\\Interface\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:23:08.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Aula_02\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:34:09.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aula_02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:10:31.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aula_02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aula_02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T20:39:10.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Aula_02\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:09:56.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Views\\Produto\\GetProdutos.cshtml",
+              "RelativeDocumentMoniker": "Aula_02\\Views\\Produto\\GetProdutos.cshtml",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Views\\Produto\\GetProdutos.cshtml",
+              "RelativeToolTip": "Aula_02\\Views\\Produto\\GetProdutos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T20:43:01.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Program.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Program.cs",
+              "RelativeToolTip": "Aula_02\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:11:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula_02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Aula_02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T20:12:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Aula_02\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "Aula_02\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:08:01.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\DTOs\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "Aula_02\\DTOs\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\DTOs\\ProdutoDto.cs",
+              "RelativeToolTip": "Aula_02\\DTOs\\ProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:24:11.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Models\\Usuario.cs",
+              "RelativeToolTip": "Aula_02\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:06:44.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Aula_02\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Models\\Produto.cs",
+              "RelativeToolTip": "Aula_02\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:21:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Aula_02",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Aula_02.csproj",
+              "RelativeDocumentMoniker": "Aula_02\\Aula_02.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Aula_02\\Aula_02\\Aula_02.csproj",
+              "RelativeToolTip": "Aula_02\\Aula_02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T20:07:02.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
