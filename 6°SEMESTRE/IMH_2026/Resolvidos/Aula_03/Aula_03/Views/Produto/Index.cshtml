@@ -1,0 +1,27 @@
+﻿@model List<Aula_03.Models.Produto>
+
+<h2>Produtos</h2>
+
+<a asp-action="Create">Novo Produto</a>
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Preço</th>
+        <th>Ações</th>
+        <th>Categoria</th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Nome</td>
+            <td>@p.Preco.ToString("C")</td>
+            <td>@p.Categoria</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@p.Id">Editar</a> |
+                <a asp-action="Delete" asp-route-id="@p.Id">Excluir</a>
+            </td>
+        </tr>
+    }
+</table>

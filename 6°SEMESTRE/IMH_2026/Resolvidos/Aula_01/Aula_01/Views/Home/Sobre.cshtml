@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Sobre";
+}
+
+<h1>Sobre</h1>
+<p>@ViewBag.Sobre</p>
+
+@foreach (var linha in ViewBag.LinhasSobre)
+{
+    string[] partes = linha.Split(':');
+    if (partes.Length > 1)
+    {
+        <p><strong>@partes[0]:</strong>@partes[1]</p>
+    }
+    else
+    {
+        <p><strong>@linha</strong></p>
+    }
+}

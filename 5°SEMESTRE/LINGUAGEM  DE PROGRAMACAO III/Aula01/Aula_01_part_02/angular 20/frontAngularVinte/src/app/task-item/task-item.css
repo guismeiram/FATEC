@@ -1,0 +1,5 @@
+li {
+  padding: 8px;           /* Espaçamento interno */
+  margin: 4px 0;          /* Margem entre itens */
+  border: 1px solid #ddd; /* Borda sutil */
+}

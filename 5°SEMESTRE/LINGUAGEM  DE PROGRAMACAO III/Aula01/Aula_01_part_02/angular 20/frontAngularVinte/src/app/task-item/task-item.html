@@ -1,0 +1,5 @@
+<li>
+  {{ task.title }} - {{ task.completed ? '✓' : '✗' }} <!-- Exibe título e status -->
+  <button (click)="onDelete()">Excluir</button> <!-- Botão que dispara a exclusão -->
+</li>
+

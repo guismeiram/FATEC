@@ -1,0 +1,23 @@
+﻿@model Aula_03.Models.Produto
+
+<h2>Novo Produto</h2>
+
+<form asp-action="Create" method="post">
+    <label>Nome</label>
+    <input asp-for="Nome" />
+    <span asp-validation-for="Nome"></span>
+
+    <label>Preço</label>
+    <input asp-for="Preco" />
+    <span asp-validation-for="Preco"></span>
+
+    <label>
+        <input asp-for="Ativo" /> Ativo
+    </label>
+
+    <label>Categoria</label>
+    <input asp-for="Categoria" />
+    <span asp-validation-for="Categoria"></span>
+
+    <button type="submit">Salvar</button>
+</form>
