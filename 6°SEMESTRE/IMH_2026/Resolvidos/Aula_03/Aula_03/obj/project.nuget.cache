@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g9E8xQdcNlE=",
+  "dgSpecHash": "2t2BMz0P93Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guism\\Desktop\\Aula_03\\Aula_03\\Aula_03.csproj",
+  "projectFilePath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_03\\Aula_03\\Aula_03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guism\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

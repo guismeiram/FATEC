@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guism\\Desktop\\Aula_01\\Aula_01\\Aula_01.csproj": {}
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_01\\Aula_01\\Aula_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guism\\Desktop\\Aula_01\\Aula_01\\Aula_01.csproj": {
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_01\\Aula_01\\Aula_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guism\\Desktop\\Aula_01\\Aula_01\\Aula_01.csproj",
+        "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_01\\Aula_01\\Aula_01.csproj",
         "projectName": "Aula_01",
-        "projectPath": "C:\\Users\\guism\\Desktop\\Aula_01\\Aula_01\\Aula_01.csproj",
+        "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_01\\Aula_01\\Aula_01.csproj",
         "packagesPath": "C:\\Users\\guism\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guism\\Desktop\\Aula_01\\Aula_01\\obj\\",
+        "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_01\\Aula_01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

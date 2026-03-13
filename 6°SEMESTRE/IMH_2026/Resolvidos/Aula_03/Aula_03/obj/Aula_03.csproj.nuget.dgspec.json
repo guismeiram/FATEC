@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guism\\Desktop\\Aula_03\\Aula_03\\Aula_03.csproj": {}
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_03\\Aula_03\\Aula_03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guism\\Desktop\\Aula_03\\Aula_03\\Aula_03.csproj": {
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_03\\Aula_03\\Aula_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guism\\Desktop\\Aula_03\\Aula_03\\Aula_03.csproj",
+        "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_03\\Aula_03\\Aula_03.csproj",
         "projectName": "Aula_03",
-        "projectPath": "C:\\Users\\guism\\Desktop\\Aula_03\\Aula_03\\Aula_03.csproj",
+        "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_03\\Aula_03\\Aula_03.csproj",
         "packagesPath": "C:\\Users\\guism\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guism\\Desktop\\Aula_03\\Aula_03\\obj\\",
+        "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_03\\Aula_03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
