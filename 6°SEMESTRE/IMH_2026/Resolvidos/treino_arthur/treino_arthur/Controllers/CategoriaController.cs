@@ -54,5 +54,7 @@ namespace treino_arthur.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+
     }
 }
