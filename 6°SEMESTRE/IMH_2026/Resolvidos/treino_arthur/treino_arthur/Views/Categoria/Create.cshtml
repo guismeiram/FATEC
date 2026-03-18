@@ -1,11 +1,5 @@
 ﻿@model treino_arthur.Models.Categoria
 
-@{
-    ViewData["Title"] = "Create";
-}
-
-<h1>Create</h1>
-
 <h4>Categoria</h4>
 <hr />
 <div class="row">
@@ -18,10 +12,28 @@
                 <span asp-validation-for="Nome" class="text-danger"></span>
             </div>
 
-            <h4>Produto</h4>
+            <h4>Produtos</h4>
             <hr />
 
-            <partial name="Produto" />
+            @for (int i = 0; i < Model.Produtos.Count; i++)
+            {
+                <div class="form-group">
+                    <label asp-for="Produtos[i].Nome" class="control-label"></label>
+                    <input asp-for="Produtos[i].Nome" class="form-control" />
+                    <span asp-validation-for="Produtos[i].Nome" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Produtos[i].Preco" class="control-label"></label>
+                    <input asp-for="Produtos[i].Preco" class="form-control" />
+                    <span asp-validation-for="Produtos[i].Preco" class="text-danger"></span>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="Produtos[i].Ativo" /> @Html.DisplayNameFor(model => model.Produtos[i].Ativo)
+                    </label>
+                </div>
+                <hr />
+            }
 
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
@@ -33,7 +45,3 @@
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
-
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}

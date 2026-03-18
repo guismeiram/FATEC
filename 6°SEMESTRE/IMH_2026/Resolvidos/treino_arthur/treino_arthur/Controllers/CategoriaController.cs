@@ -25,10 +25,11 @@ namespace treino_arthur.Controllers
             return View(categoria);
         }
 
-        public IActionResult Create()
+       public IActionResult Create()
         {
-            ViewBag.Categorias = _context.Categorias.ToList();
-            return View();
+            var categoria = new Categoria();
+            categoria.Produtos.Add(new Produto()); // Adiciona um produto vazio
+            return View(categoria);
         }
 
         [HttpPost]
@@ -38,6 +39,18 @@ namespace treino_arthur.Controllers
 
             _context.Categorias.Add(categoria);
             await _context.SaveChangesAsync();
+
+            // Os produtos já foram adicionados via relacionamento, se o EF Core estiver configurado para cascata
+            // O código abaixo é redundante se a configuração estiver correta, mas mantê-lo não causa problemas
+            //if (categoria.Produtos != null && categoria.Produtos.Any())
+            //{
+                foreach (var item in categoria.Produtos)
+                {
+                    item.CategoriaId = categoria.Id; // Garante a FK
+                                                     // _context.Produtos.Add(item); // Não necessário se o EF já rastreia
+                }
+                await _context.SaveChangesAsync();
+            //}
 
             return RedirectToAction(nameof(Index));
         }

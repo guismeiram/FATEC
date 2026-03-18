@@ -34,8 +34,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guism/Desktop/FATEC/6°SEMESTRE/IMH_2026/Resolvidos/treino_arthur/treino_arthur/Views/Categoria/Produto.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXFByb2R1dG8uY3NodG1s
+[C:/Users/guism/Desktop/FATEC/6°SEMESTRE/IMH_2026/Resolvidos/treino_arthur/treino_arthur/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guism/Desktop/FATEC/6°SEMESTRE/IMH_2026/Resolvidos/treino_arthur/treino_arthur/Views/Categoria/_Produto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXF9Qcm9kdXRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/guism/Desktop/FATEC/6°SEMESTRE/IMH_2026/Resolvidos/treino_arthur/treino_arthur/Views/Home/Index.cshtml]
