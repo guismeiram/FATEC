@@ -8,5 +8,6 @@ namespace Aula_04.Models
         public Categoria Categorias { get; set; }
         public string Produto_Id {  get; set; }
         public Produto Produtos { get; set; }
+        
     }
 }

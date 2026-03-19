@@ -13,5 +13,8 @@ namespace Aula_04.Models
 
         public IEnumerable<CategoriaProduto> CategoriaProdutos { get; set; }
 
+        public string Fornecedor_Id { get; set; }
+        public Fornecedor Fornecedores { get; set; }
+
     }
 }
