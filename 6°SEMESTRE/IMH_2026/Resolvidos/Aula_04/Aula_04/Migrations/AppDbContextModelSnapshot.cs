@@ -57,6 +57,27 @@ namespace Aula_04.Migrations
                     b.ToTable("CategoriaProdutos");
                 });
 
+            modelBuilder.Entity("Aula_04.Models.Fornecedor", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<bool>("Ativo")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Documento")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Fornecedor");
+                });
+
             modelBuilder.Entity("Aula_04.Models.Produto", b =>
                 {
                     b.Property<string>("Id")
@@ -64,6 +85,10 @@ namespace Aula_04.Migrations
 
                     b.Property<bool>("Ativo")
                         .HasColumnType("bit");
+
+                    b.Property<string>("Fornecedor_Id")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Nome")
                         .IsRequired()
@@ -73,6 +98,8 @@ namespace Aula_04.Migrations
                         .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("Fornecedor_Id");
 
                     b.ToTable("Produtos");
                 });
@@ -94,9 +121,24 @@ namespace Aula_04.Migrations
                     b.Navigation("Produtos");
                 });
 
+            modelBuilder.Entity("Aula_04.Models.Produto", b =>
+                {
+                    b.HasOne("Aula_04.Models.Fornecedor", "Fornecedores")
+                        .WithMany("Produtos")
+                        .HasForeignKey("Fornecedor_Id")
+                        .IsRequired();
+
+                    b.Navigation("Fornecedores");
+                });
+
             modelBuilder.Entity("Aula_04.Models.Categoria", b =>
                 {
                     b.Navigation("CategoriaProdutos");
+                });
+
+            modelBuilder.Entity("Aula_04.Models.Fornecedor", b =>
+                {
+                    b.Navigation("Produtos");
                 });
 
             modelBuilder.Entity("Aula_04.Models.Produto", b =>

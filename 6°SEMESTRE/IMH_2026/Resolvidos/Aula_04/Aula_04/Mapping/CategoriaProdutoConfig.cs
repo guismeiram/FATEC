@@ -16,6 +16,8 @@ namespace Aula_04.Mapping
                     .WithMany(x => x.CategoriaProdutos)
                     .HasForeignKey(x => x.Categoria_Id);
 
+           
+
 
         }
     }

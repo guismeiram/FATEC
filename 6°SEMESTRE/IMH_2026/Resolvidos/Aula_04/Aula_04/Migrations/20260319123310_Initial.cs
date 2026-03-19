@@ -5,7 +5,7 @@
 namespace Aula_04.Migrations
 {
     /// <inheritdoc />
-    public partial class Aula_04 : Migration
+    public partial class Initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -23,17 +23,37 @@ namespace Aula_04.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Fornecedor",
+                columns: table => new
+                {
+                    Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Documento = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Ativo = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Fornecedor", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Produtos",
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Preco = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
-                    Ativo = table.Column<bool>(type: "bit", nullable: false)
+                    Ativo = table.Column<bool>(type: "bit", nullable: false),
+                    Fornecedor_Id = table.Column<string>(type: "nvarchar(450)", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Produtos", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Produtos_Fornecedor_Fornecedor_Id",
+                        column: x => x.Fornecedor_Id,
+                        principalTable: "Fornecedor",
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
@@ -68,6 +88,11 @@ namespace Aula_04.Migrations
                 name: "IX_CategoriaProdutos_Produto_Id",
                 table: "CategoriaProdutos",
                 column: "Produto_Id");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Produtos_Fornecedor_Id",
+                table: "Produtos",
+                column: "Fornecedor_Id");
         }
 
         /// <inheritdoc />
@@ -81,6 +106,9 @@ namespace Aula_04.Migrations
 
             migrationBuilder.DropTable(
                 name: "Produtos");
+
+            migrationBuilder.DropTable(
+                name: "Fornecedor");
         }
     }
 }
