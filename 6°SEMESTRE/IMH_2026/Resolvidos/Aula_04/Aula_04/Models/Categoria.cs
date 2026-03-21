@@ -4,7 +4,7 @@ namespace Aula_04.Models
 {
     public class Categoria : Entity
     {
-        public string Nome { get; set; }
+        public string NomeCategoria { get; set; }
 
         public IEnumerable<CategoriaProduto> CategoriaProdutos { get; set; }
     }

@@ -26,7 +26,7 @@ namespace Aula_04.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("Nome")
+                    b.Property<string>("NomeCategoria")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -75,7 +75,7 @@ namespace Aula_04.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Fornecedor");
+                    b.ToTable("Fornecedores");
                 });
 
             modelBuilder.Entity("Aula_04.Models.Produto", b =>
@@ -90,7 +90,7 @@ namespace Aula_04.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("Nome")
+                    b.Property<string>("NomeProduto")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
