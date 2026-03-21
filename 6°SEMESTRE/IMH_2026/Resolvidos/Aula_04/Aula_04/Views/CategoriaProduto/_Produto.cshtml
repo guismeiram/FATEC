@@ -1,0 +1,20 @@
+﻿@model Aula_04.Models.Produto
+
+<div class="form-group">
+    <label asp-for="NomeProduto" class="control-label"></label>
+    <input asp-for="NomeProduto" class="form-control" />
+    <span asp-validation-for="NomeProduto" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="Preco" class="control-label"></label>
+    <input asp-for="Preco" class="form-control" />
+    <span asp-validation-for="Preco" class="text-danger"></span>
+</div>
+
+<div class="form-group form-check">
+    <label class="form-check-label">
+        <input class="form-check-input" asp-for="Ativo" />
+        @Html.DisplayNameFor(model => model.Ativo)
+    </label>
+</div>

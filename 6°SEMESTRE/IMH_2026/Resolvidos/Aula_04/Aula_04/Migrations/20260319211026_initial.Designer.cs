@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Aula_04.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260319123310_Initial")]
-    partial class Initial
+    [Migration("20260319211026_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -29,7 +29,7 @@ namespace Aula_04.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("Nome")
+                    b.Property<string>("NomeCategoria")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -78,7 +78,7 @@ namespace Aula_04.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Fornecedor");
+                    b.ToTable("Fornecedores");
                 });
 
             modelBuilder.Entity("Aula_04.Models.Produto", b =>
@@ -93,7 +93,7 @@ namespace Aula_04.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<string>("Nome")
+                    b.Property<string>("NomeProduto")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

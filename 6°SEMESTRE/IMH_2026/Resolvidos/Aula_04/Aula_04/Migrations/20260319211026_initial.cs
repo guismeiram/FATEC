@@ -5,7 +5,7 @@
 namespace Aula_04.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -15,7 +15,7 @@ namespace Aula_04.Migrations
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    Nome = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    NomeCategoria = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -23,7 +23,7 @@ namespace Aula_04.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Fornecedor",
+                name: "Fornecedores",
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
@@ -33,7 +33,7 @@ namespace Aula_04.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Fornecedor", x => x.Id);
+                    table.PrimaryKey("PK_Fornecedores", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -41,7 +41,7 @@ namespace Aula_04.Migrations
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    NomeProduto = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Preco = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Ativo = table.Column<bool>(type: "bit", nullable: false),
                     Fornecedor_Id = table.Column<string>(type: "nvarchar(450)", nullable: false)
@@ -50,9 +50,9 @@ namespace Aula_04.Migrations
                 {
                     table.PrimaryKey("PK_Produtos", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Produtos_Fornecedor_Fornecedor_Id",
+                        name: "FK_Produtos_Fornecedores_Fornecedor_Id",
                         column: x => x.Fornecedor_Id,
-                        principalTable: "Fornecedor",
+                        principalTable: "Fornecedores",
                         principalColumn: "Id");
                 });
 
@@ -108,7 +108,7 @@ namespace Aula_04.Migrations
                 name: "Produtos");
 
             migrationBuilder.DropTable(
-                name: "Fornecedor");
+                name: "Fornecedores");
         }
     }
 }
