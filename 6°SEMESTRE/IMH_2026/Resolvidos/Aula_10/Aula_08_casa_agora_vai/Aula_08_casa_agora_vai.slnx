@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Aula_08_casa_agora_vai/Aula_08_casa_agora_vai.Client/Aula_08_casa_agora_vai.Client.csproj" />
+  <Project Path="Aula_08_casa_agora_vai/Aula_08_casa_agora_vai/Aula_08_casa_agora_vai.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
