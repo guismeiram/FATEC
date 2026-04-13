@@ -1,0 +1,38 @@
+﻿@page "/produtos"
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using Aula09.Models
+@using Aula09.Data
+@implements IAsyncDisposable
+@inject IDbContextFactory<Aula09.Data.AppDbContext> DbFactory
+
+<PageTitle>Index</PageTitle>
+
+<h1>Index</h1>
+
+<p>
+    <a href="produtos/create">Create New</a>
+</p>
+
+<QuickGrid Class="table" Items="context.Produtos">
+    <PropertyColumn Property="produto => produto.Nome" />
+    <PropertyColumn Property="produto => produto.Preco" />
+    <PropertyColumn Property="produto => produto.Estoque" />
+
+    <TemplateColumn Context="produto">
+        <a href="@($"produtos/edit?id={produto.Id}")">Edit</a> |
+        <a href="@($"produtos/details?id={produto.Id}")">Details</a> |
+        <a href="@($"produtos/delete?id={produto.Id}")">Delete</a>
+    </TemplateColumn>
+</QuickGrid>
+
+@code {
+    private AppDbContext context = default!;
+
+    protected override void OnInitialized()
+    {
+        context = DbFactory.CreateDbContext();
+    }
+
+    public async ValueTask DisposeAsync() => await context.DisposeAsync();
+}

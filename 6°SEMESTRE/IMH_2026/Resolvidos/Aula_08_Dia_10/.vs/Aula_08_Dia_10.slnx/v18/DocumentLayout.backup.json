@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_08_dia_10\\aula_08_dia_10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|solutionrelative:aula_08_dia_10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_08_dia_10\\aula_08_dia_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|solutionrelative:aula_08_dia_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_08_dia_10\\aula_08_dia_10\\components\\pages\\produtopages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|solutionrelative:aula_08_dia_10\\components\\pages\\produtopages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_08_dia_10\\aula_08_dia_10\\migrations\\20260410102951_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|solutionrelative:aula_08_dia_10\\migrations\\20260410102951_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_08_dia_10\\aula_08_dia_10\\components\\pages\\produtopages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|solutionrelative:aula_08_dia_10\\components\\pages\\produtopages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_08_dia_10\\aula_08_dia_10\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|solutionrelative:aula_08_dia_10\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_08_dia_10\\aula_08_dia_10\\aula_08_dia_10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|solutionrelative:aula_08_dia_10\\aula_08_dia_10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_08_dia_10\\aula_08_dia_10\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B2CF-9AF4-D26D-ADF6-B31E41B1E551}|Aula_08_Dia_10\\Aula_08_Dia_10.csproj|solutionrelative:aula_08_dia_10\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Components\\Pages\\ProdutoPages\\Index.razor",
+              "RelativeDocumentMoniker": "Aula_08_Dia_10\\Components\\Pages\\ProdutoPages\\Index.razor",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Components\\Pages\\ProdutoPages\\Index.razor",
+              "RelativeToolTip": "Aula_08_Dia_10\\Components\\Pages\\ProdutoPages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T10:34:45.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260410102951_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Migrations\\20260410102951_Initial.cs",
+              "RelativeDocumentMoniker": "Aula_08_Dia_10\\Migrations\\20260410102951_Initial.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Migrations\\20260410102951_Initial.cs",
+              "RelativeToolTip": "Aula_08_Dia_10\\Migrations\\20260410102951_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:29:51.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Components\\Pages\\ProdutoPages\\Create.razor",
+              "RelativeDocumentMoniker": "Aula_08_Dia_10\\Components\\Pages\\ProdutoPages\\Create.razor",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Components\\Pages\\ProdutoPages\\Create.razor",
+              "RelativeToolTip": "Aula_08_Dia_10\\Components\\Pages\\ProdutoPages\\Create.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T10:29:00.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_08_Dia_10\\Program.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Program.cs",
+              "RelativeToolTip": "Aula_08_Dia_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:26:02.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\appsettings.json",
+              "RelativeDocumentMoniker": "Aula_08_Dia_10\\appsettings.json",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\appsettings.json",
+              "RelativeToolTip": "Aula_08_Dia_10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T10:24:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Aula_08_Dia_10\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Aula_08_Dia_10\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:22:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aula_08_Dia_10.csproj",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Aula_08_Dia_10.csproj",
+              "RelativeDocumentMoniker": "Aula_08_Dia_10\\Aula_08_Dia_10.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Aula_08_Dia_10.csproj",
+              "RelativeToolTip": "Aula_08_Dia_10\\Aula_08_Dia_10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-10T10:21:44.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Aula_08_Dia_10\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_Dia_10\\Aula_08_Dia_10\\Models\\Produto.cs",
+              "RelativeToolTip": "Aula_08_Dia_10\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:20:38.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

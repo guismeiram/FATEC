@@ -1,0 +1,36 @@
+﻿@model List<Aula_07_Identity.Models.Produto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Produtos</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Novo Produto</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Ativo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.Preco</td>
+                <td>@item.Ativo</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

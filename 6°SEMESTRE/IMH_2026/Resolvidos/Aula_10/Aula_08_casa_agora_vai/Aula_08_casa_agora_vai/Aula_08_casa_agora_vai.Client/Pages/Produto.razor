@@ -1,0 +1,89 @@
+﻿@page "/produto"
+@page "/produto/{Id:int}"
+@using Aula_08_casa_agora_vai.Client.Services
+@using Shared
+@inject IProdutoService ProdutoService
+@inject NavigationManager NavigationManager
+
+@if (Id is null)
+{
+    <PageTitle>Criar novo produto</PageTitle>
+    <h3>Criar novo produto</h3>
+}
+else
+{
+    <PageTitle>Editar produto</PageTitle>
+    <h3>Editar @produto.Nome</h3>
+}
+
+<EditForm Model="produto" OnValidSubmit="HandleSubmit" FormName="ProdutoForm">
+    <div class="mb-3">
+        <label for="nome" class="form-label">Nome</label>
+        <InputText id="nome" @bind-Value="produto.Nome" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="preco" class="form-label">Preço</label>
+        <InputNumber id="preco" @bind-Value="produto.Preco" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">@btnText</button>
+
+    @if (Id is not null)
+    {
+        <button type="button" class="btn btn-danger ms-2" @onclick="DeleteProduto">
+            Excluir Produto
+        </button>
+    }
+</EditForm>
+
+@code {
+    [Parameter]
+    public int? Id { get; set; }
+
+    private string btnText = string.Empty;
+
+    private Shared.Produto produto = new();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        btnText = Id is null ? "Salvar Novo Produto" : "Atualizar Produto";
+
+        if (Id is not null)
+        {
+            var result = await ProdutoService.GetProdutoById(Id.Value);
+
+            if (result is not null)
+            {
+                produto = result;
+            }
+            else
+            {
+                NavigationManager.NavigateTo("/produtos");
+            }
+        }
+    }
+
+    private async Task HandleSubmit()
+    {
+        if (Id is null)
+        {
+            await ProdutoService.CreateProduto(produto);
+        }
+        else
+        {
+            await ProdutoService.UpdateProduto(Id.Value, produto);
+        }
+
+        NavigationManager.NavigateTo("/produtos");
+    }
+
+    private async Task DeleteProduto()
+    {
+        if (Id is not null)
+        {
+            await ProdutoService.DeleteProduto(Id.Value);
+            NavigationManager.NavigateTo("/produtos");
+        }
+    }
+}

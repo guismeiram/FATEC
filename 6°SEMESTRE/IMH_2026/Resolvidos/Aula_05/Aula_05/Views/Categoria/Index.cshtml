@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Aula_05.Models.Categoria>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Produtos[0].Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Produtos[1].Preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Produtos[2].Ativo)
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            @for (int i = 0; i < item.Produtos.Count; i++)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Produtos[i].Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Produtos[i].Preco)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Produtos[i].Ativo)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        }
+    </tbody>
+</table>

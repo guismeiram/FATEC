@@ -17,8 +17,8 @@ namespace Aula_04.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var lista = await _context.CategoriaProdutos
-                .Include(x => x.Categorias)
+            var lista = await _context.PedidoProdutos
+                .Include(x => x.Pedido)
                 .Include(x => x.Produtos)
                 .ToListAsync();
 
@@ -27,20 +27,20 @@ namespace Aula_04.Controllers
 
         public IActionResult Create()
         {
-            ViewBag.Categoria_Id = new SelectList(_context.Categorias, "Id", "NomeCategoria");
+            ViewBag.Pedido_Id = new SelectList(_context.Pedidos, "Id", "NomePedido");
             ViewBag.Produto_Id = new SelectList(_context.Produtos, "Id", "NomeProduto");
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(CategoriaProduto categoriaProduto)
+        public async Task<IActionResult> Create(PedidoProduto pedidoProduto)
         {
             if (!ModelState.IsValid)
             {
-                return View(categoriaProduto);
+                return View(pedidoProduto);
             }
 
-            _context.CategoriaProdutos.Add(categoriaProduto);
+            _context.PedidoProdutos.Add(pedidoProduto);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }

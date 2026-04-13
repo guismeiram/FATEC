@@ -1,0 +1,56 @@
+﻿@page "/produtos"
+@using Aula_08_casa_agora_vai.Client.Services
+@inject IProdutoService ProdutoService
+@inject NavigationManager NavigationManager
+
+<h3>Produtos</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (ProdutoService.Produtos != null && ProdutoService.Produtos.Any())
+        {
+            @foreach (var produto in ProdutoService.Produtos)
+            {
+                <tr>
+                    <td>@produto.Nome</td>
+                    <td>@produto.Preco</td>
+                    <td>
+                        <button class="btn btn-primary"
+                                @onclick="() => ShowProduto(produto.Id)">
+                            Editar
+                        </button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<button class="btn btn-primary"
+        @onclick="CreateNewProduto">
+    Criar Novo Produto
+</button>
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        await ProdutoService.GetProdutos();
+    }
+
+    void ShowProduto(int id)
+    {
+        NavigationManager.NavigateTo($"/produto/{id}");
+    }
+
+    void CreateNewProduto()
+    {
+        NavigationManager.NavigateTo("/produto");
+    }
+}
