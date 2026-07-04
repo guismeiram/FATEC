@@ -186,7 +186,7 @@ FATEC
 |------------|----------|--------|
 | Governança de TI | ✔️ | ✅ |
 | Auditoria | ✔️ | ✅ |
-| TCC | ✔️ | 🚧 |
+| TCC | ✔️ | ✅ |
 | Gestão por Processos | ✔️ | ✅ |
 
 ---
