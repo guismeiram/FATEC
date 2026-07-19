@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj": {}
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj": {
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj",
+        "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj",
         "projectName": "Aula_08_casa_agora_vai.Client",
-        "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj",
+        "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj",
         "packagesPath": "C:\\Users\\guism\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\obj\\",
+        "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj"
+              "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj"
               }
             }
           }
@@ -58,7 +58,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.5, )",
+              "version": "[10.0.8, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
@@ -67,19 +67,19 @@
             },
             "Microsoft.DotNet.HotReload.WebAssembly.Browser": {
               "target": "Package",
-              "version": "[10.0.201, )",
+              "version": "[10.0.204, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.5, )",
+              "version": "[10.0.8, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.5, )",
+              "version": "[10.0.8, )",
               "autoReferenced": true
             }
           },
@@ -99,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -382,14 +382,14 @@
         }
       }
     },
-    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj": {
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\guism\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -444,7 +444,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,0 +1,50 @@
+﻿@page "/produtos"
+@using Aula_11_Front.Models
+@using Aula_11_Front.Services
+@inject ProdutoService ProdutoService
+
+<h3>Produtos</h3>
+
+@if (mensagemErro != null)
+{
+    <div class="alert alert-danger">
+        <strong>Erro:</strong> @mensagemErro
+    </div>
+}
+else if (produtos == null)
+{
+    <p>Carregando...</p>
+}
+else if (produtos.Count == 0)
+{
+    <p>Nenhum produto encontrado.</p>
+}
+else
+{
+    <ul>
+        @foreach (var produto in produtos)
+        {
+            <li>@produto.Nome - @produto.Preco.ToString("C")</li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Produto>? produtos;
+    private string? mensagemErro;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            // Clear any previous errors
+            mensagemErro = null;
+            produtos = await ProdutoService.ListarProdutos();
+        }
+        catch (Exception ex)
+        {
+            // Capture the error message thrown by the service
+            mensagemErro = ex.Message;
+        }
+    }
+}

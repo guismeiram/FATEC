@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\components\\pages\\cadastrar-produto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\components\\pages\\cadastrar-produto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\models\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\models\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\aula_11_front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\aula_11_front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|c:\\users\\guism\\desktop\\fatec\\6\u00B0semestre\\imh_2026\\resolvidos\\aula_11\\aula_11_front\\aula_11_front\\components\\pages\\produtos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB3D70-6F9B-767E-BAB5-04DDF16C5CEA}|Aula_11_Front\\Aula_11_Front.csproj|solutionrelative:aula_11_front\\components\\pages\\produtos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Models\\PageResult.cs",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Models\\PageResult.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Models\\PageResult.cs",
+              "RelativeToolTip": "Aula_11_Front\\Models\\PageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:47:47.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Models\\Produto.cs",
+              "RelativeToolTip": "Aula_11_Front\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:43:21.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aula_11_Front.csproj",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Aula_11_Front.csproj",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Aula_11_Front.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Aula_11_Front.csproj",
+              "RelativeToolTip": "Aula_11_Front\\Aula_11_Front.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-20T12:42:56.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "Aula_11_Front\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:41:00.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastrar-produto.razor",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\Cadastrar-produto.razor",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Components\\Pages\\Cadastrar-produto.razor",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\Cadastrar-produto.razor",
+              "RelativeToolTip": "Aula_11_Front\\Components\\Pages\\Cadastrar-produto.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T12:40:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Program.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Program.cs",
+              "RelativeToolTip": "Aula_11_Front\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:38:14.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Aula_11_Front\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T12:26:55.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "Aula_11_Front\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T12:26:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Aula_11_Front\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T12:26:48.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produtos.razor",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\Produtos.razor",
+              "RelativeDocumentMoniker": "Aula_11_Front\\Components\\Pages\\Produtos.razor",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\FATEC\\6\u00B0SEMESTRE\\IMH_2026\\Resolvidos\\Aula_11\\Aula_11_Front\\Aula_11_Front\\Components\\Pages\\Produtos.razor",
+              "RelativeToolTip": "Aula_11_Front\\Components\\Pages\\Produtos.razor",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T12:26:10.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

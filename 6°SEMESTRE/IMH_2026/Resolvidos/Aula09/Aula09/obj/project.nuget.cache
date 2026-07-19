@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D7Y2KPRhGEA=",
+  "dgSpecHash": "btyP0gPKDKg=",
   "success": true,
   "projectFilePath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula09\\Aula09\\Aula09.csproj",
   "expectedPackageFiles": [
@@ -56,7 +56,7 @@
     "C:\\Users\\guism\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
-    "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512",
+    "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\10.0.2\\microsoft.aspnetcore.components.quickgrid.10.0.2.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid.entityframeworkadapter\\10.0.2\\microsoft.aspnetcore.components.quickgrid.entityframeworkadapter.10.0.2.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\10.0.2\\microsoft.aspnetcore.diagnostics.entityframeworkcore.10.0.2.nupkg.sha512",
@@ -133,5 +133,30 @@
     "C:\\Users\\guism\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula09\\Aula09\\Aula09.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula09\\Aula09\\Aula09.csproj",
+      "libraryId": "NuGet.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula09\\Aula09\\Aula09.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula09\\Aula09\\Aula09.csproj",
+      "libraryId": "NuGet.Protocol",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

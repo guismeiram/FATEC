@@ -1,0 +1,134 @@
+﻿/* Container principal da tela */
+.produtos-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    font-family: sans-serif;
+    color: #333333;
+}
+
+.produtos-container h2 {
+    margin-bottom: 1.5rem;
+    color: #1f2937;
+}
+
+/* --- ESTILOS DO FORMULÁRIO (ProdutoForm) --- */
+.produto-form-card {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap; /* Permite quebrar linha em telas pequenas */
+}
+
+.produto-input {
+    flex: 1;
+    min-width: 150px;
+    padding: 0.8rem;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 1rem;
+    transition: border-color 0.2s;
+}
+
+.produto-input:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+}
+
+/* --- ESTILOS DOS BOTÕES --- */
+.btn-primary {
+    padding: 0.8rem 1.5rem;
+    background-color: #3b82f6; /* Azul */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.btn-primary:hover { background-color: #2563eb; }
+
+.btn-secondary {
+    padding: 0.8rem 1.5rem;
+    background-color: #9ca3af; /* Cinza */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.btn-secondary:hover { background-color: #6b7280; }
+
+.btn-edit {
+    padding: 0.5rem 1rem;
+    background-color: #f59e0b; /* Amarelo/Laranja */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.btn-edit:hover { background-color: #d97706; }
+
+.btn-danger {
+    padding: 0.5rem 1rem;
+    background-color: #ef4444; /* Vermelho */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.btn-danger:hover { background-color: #dc2626; }
+
+/* --- ESTILOS DA LISTA DE PRODUTOS --- */
+.produtos-lista {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.produto-item {
+    background-color: #ffffff;
+    padding: 1.2rem 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 5px solid #3b82f6; /* Detalhe azul na lateral do card */
+}
+
+.produto-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.produto-nome {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.produto-preco {
+    color: #10b981; /* Verde para destacar o preço */
+    font-weight: 600;
+}
+
+.produto-acoes {
+    display: flex;
+    gap: 0.5rem;
+}

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wjjsSUCPWyI=",
+  "dgSpecHash": "PE7eoEF6G+c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj",
+  "projectFilePath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512",
+    "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.5\\microsoft.aspnetcore.authorization.10.0.5.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.components\\10.0.5\\microsoft.aspnetcore.components.10.0.5.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\10.0.5\\microsoft.aspnetcore.components.analyzers.10.0.5.nupkg.sha512",
@@ -12,7 +12,7 @@
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.components.web\\10.0.5\\microsoft.aspnetcore.components.web.10.0.5.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.5\\microsoft.aspnetcore.components.webassembly.10.0.5.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.aspnetcore.metadata\\10.0.5\\microsoft.aspnetcore.metadata.10.0.5.nupkg.sha512",
-    "C:\\Users\\guism\\.nuget\\packages\\microsoft.dotnet.hotreload.webassembly.browser\\10.0.201\\microsoft.dotnet.hotreload.webassembly.browser.10.0.201.nupkg.sha512",
+    "C:\\Users\\guism\\.nuget\\packages\\microsoft.dotnet.hotreload.webassembly.browser\\10.0.204\\microsoft.dotnet.hotreload.webassembly.browser.10.0.204.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.5\\microsoft.extensions.configuration.10.0.5.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.5\\microsoft.extensions.configuration.binder.10.0.5.nupkg.sha512",
@@ -33,8 +33,8 @@
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.extensions.validation\\10.0.5\\microsoft.extensions.validation.10.0.5.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.jsinterop\\10.0.5\\microsoft.jsinterop.10.0.5.nupkg.sha512",
     "C:\\Users\\guism\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.5\\microsoft.jsinterop.webassembly.10.0.5.nupkg.sha512",
-    "C:\\Users\\guism\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.5\\microsoft.net.illink.tasks.10.0.5.nupkg.sha512",
-    "C:\\Users\\guism\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.5\\microsoft.net.sdk.webassembly.pack.10.0.5.nupkg.sha512"
+    "C:\\Users\\guism\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.8\\microsoft.net.illink.tasks.10.0.8.nupkg.sha512",
+    "C:\\Users\\guism\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.8\\microsoft.net.sdk.webassembly.pack.10.0.8.nupkg.sha512"
   ],
   "logs": []
 }

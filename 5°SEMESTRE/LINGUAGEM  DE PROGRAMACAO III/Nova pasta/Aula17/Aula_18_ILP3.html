@@ -1,0 +1,20 @@
+<template>
+  <div>{{ message }}</div>
+</template>
+
+<script>
+export default {
+  data() {
+    return { message: 'Hello Vue!' }
+  },
+  methods: {
+    updateMessage() {
+      this.message = 'Updated!'
+    }
+  }
+}
+</script>
+
+<style scoped>
+div { color: blue; }
+</style>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\treino_arthur\\treino_arthur\\treino_arthur.csproj": {}
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_04\\treino_arthur\\treino_arthur\\treino_arthur.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\treino_arthur\\treino_arthur\\treino_arthur.csproj": {
+    "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_04\\treino_arthur\\treino_arthur\\treino_arthur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\treino_arthur\\treino_arthur\\treino_arthur.csproj",
+        "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_04\\treino_arthur\\treino_arthur\\treino_arthur.csproj",
         "projectName": "treino_arthur",
-        "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\treino_arthur\\treino_arthur\\treino_arthur.csproj",
+        "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_04\\treino_arthur\\treino_arthur\\treino_arthur.csproj",
         "packagesPath": "C:\\Users\\guism\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\treino_arthur\\treino_arthur\\obj\\",
+        "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_04\\treino_arthur\\treino_arthur\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

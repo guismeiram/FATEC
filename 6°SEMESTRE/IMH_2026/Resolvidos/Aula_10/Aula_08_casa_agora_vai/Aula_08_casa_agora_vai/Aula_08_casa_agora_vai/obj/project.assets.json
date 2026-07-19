@@ -51,7 +51,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.App.Internal.Assets/10.0.5": {
+      "Microsoft.AspNetCore.App.Internal.Assets/10.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.App.Internal.Assets.props": {},
@@ -549,7 +549,7 @@
           }
         }
       },
-      "Microsoft.DotNet.HotReload.WebAssembly.Browser/10.0.201": {
+      "Microsoft.DotNet.HotReload.WebAssembly.Browser/10.0.204": {
         "type": "package",
         "compile": {
           "lib/net10.0/Microsoft.DotNet.HotReload.WebAssembly.Browser.dll": {}
@@ -1113,7 +1113,7 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": "10.0.5",
-          "Microsoft.DotNet.HotReload.WebAssembly.Browser": "10.0.201",
+          "Microsoft.DotNet.HotReload.WebAssembly.Browser": "10.0.204",
           "Shared": "1.0.0"
         },
         "compile": {
@@ -1194,10 +1194,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.App.Internal.Assets/10.0.5": {
-      "sha512": "Oxw9Ps1/nd6c/EMCAI13AeJFEqXezAvCEOshMjUWmL7LeGirHJNzytR2e/3jINYg0j2TmPvNUowGHf+gp8zDSQ==",
+    "Microsoft.AspNetCore.App.Internal.Assets/10.0.8": {
+      "sha512": "v6KocthydFtUHBIRI29YsOHKOgsqcQubkNywVOxiYr4GSDSv+XO/AeyMJywlX+1tGUTGdydu/X7V+Tzeq4SsoA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.app.internal.assets/10.0.5",
+      "path": "microsoft.aspnetcore.app.internal.assets/10.0.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1213,7 +1213,7 @@
         "build/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildMultiTargeting/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildTransitive/Microsoft.AspNetCore.App.Internal.Assets.targets",
-        "microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512",
+        "microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512",
         "microsoft.aspnetcore.app.internal.assets.nuspec"
       ]
     },
@@ -2486,10 +2486,10 @@
         "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll"
       ]
     },
-    "Microsoft.DotNet.HotReload.WebAssembly.Browser/10.0.201": {
-      "sha512": "4EAMH3CqtVwVm7Sx4DnNtZj/J0b+A1YGcTnCL6prhQ8ZHlwbVtZ3RmSyJdi85mSnLl+u94aVr8fElRGkjZkKmw==",
+    "Microsoft.DotNet.HotReload.WebAssembly.Browser/10.0.204": {
+      "sha512": "Wo2p+Rk1W99SZxzY9E5eQIKOrP7vVCI+FEbfJ60ok0FjHFswLuPX58gxr3qTQqFaS2fW6oNo1SeL7TiFdZFzQw==",
       "type": "package",
-      "path": "microsoft.dotnet.hotreload.webassembly.browser/10.0.201",
+      "path": "microsoft.dotnet.hotreload.webassembly.browser/10.0.204",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2500,7 +2500,7 @@
         "buildMultiTargeting/Microsoft.DotNet.HotReload.WebAssembly.Browser.props",
         "buildTransitive/Microsoft.DotNet.HotReload.WebAssembly.Browser.props",
         "lib/net10.0/Microsoft.DotNet.HotReload.WebAssembly.Browser.dll",
-        "microsoft.dotnet.hotreload.webassembly.browser.10.0.201.nupkg.sha512",
+        "microsoft.dotnet.hotreload.webassembly.browser.10.0.204.nupkg.sha512",
         "microsoft.dotnet.hotreload.webassembly.browser.nuspec",
         "staticwebassets/Microsoft.DotNet.HotReload.WebAssembly.Browser.99zm1jdh75.lib.module.js"
       ]
@@ -3294,7 +3294,7 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Aula_08_casa_agora_vai.Client >= 1.0.0",
-      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.5",
+      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.8",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 10.0.5",
       "Microsoft.EntityFrameworkCore >= 10.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.5",
@@ -3308,11 +3308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.csproj",
+      "projectUniqueName": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.csproj",
       "projectName": "Aula_08_casa_agora_vai",
-      "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.csproj",
+      "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.csproj",
       "packagesPath": "C:\\Users\\guism\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\obj\\",
+      "outputPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3334,8 +3334,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj": {
-              "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj"
+            "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj": {
+              "projectPath": "C:\\Users\\guism\\Desktop\\FATEC\\6°SEMESTRE\\IMH_2026\\Resolvidos\\Aula_10\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai\\Aula_08_casa_agora_vai.Client\\Aula_08_casa_agora_vai.Client.csproj"
             }
           }
         }
@@ -3359,7 +3359,7 @@
           "Microsoft.AspNetCore.App.Internal.Assets": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[10.0.5, )",
+            "version": "[10.0.8, )",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.Components.WebAssembly.Server": {
@@ -3400,7 +3400,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

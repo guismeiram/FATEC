@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\dtos\\produtocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\dtos\\produtocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\entitys\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\entitys\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\migrations\\20260520175930_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\migrations\\20260520175930_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\mappings\\produtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\mappings\\produtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\guism\\desktop\\entrega_douglas\\aula15\\aula_11\\aula_11\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T02:52:23.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Models\\Produto.cs",
+              "RelativeToolTip": "Api\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:32:00.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T01:21:57.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260520175930_Intial.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Migrations\\20260520175930_Intial.cs",
+              "RelativeDocumentMoniker": "Api\\Migrations\\20260520175930_Intial.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Migrations\\20260520175930_Intial.cs",
+              "RelativeToolTip": "Api\\Migrations\\20260520175930_Intial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:59:30.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Api\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Api\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:56:10.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Dtos\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Dtos\\ProdutoDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\ProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:56:08.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Dtos\\ProdutoCreateDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\ProdutoCreateDto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Dtos\\ProdutoCreateDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\ProdutoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:56:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdutoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Mappings\\ProdutoMapping.cs",
+              "RelativeDocumentMoniker": "Api\\Mappings\\ProdutoMapping.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Mappings\\ProdutoMapping.cs",
+              "RelativeToolTip": "Api\\Mappings\\ProdutoMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:55:50.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Dtos\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Dtos\\PagedResult.cs",
+              "RelativeToolTip": "Api\\Dtos\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:47:20.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:45:26.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:59:44.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Entitys\\Entity.cs",
+              "RelativeDocumentMoniker": "Api\\Entitys\\Entity.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\Entitys\\Entity.cs",
+              "RelativeToolTip": "Api\\Entitys\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:43:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T12:34:50.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\entrega_douglas\\Aula15\\Aula_11\\Aula_11\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T12:21:15.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
